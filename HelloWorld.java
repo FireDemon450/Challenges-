@@ -1,6 +1,6 @@
 public class HelloWorld { 
     public static void main (String [] args) { 
-        String name = "John";
+        String name = "Eric";
         System.out.println (name); 
     } 
 } 
